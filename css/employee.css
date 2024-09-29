@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 1070px;
+    background-color: paleturquoise;
+    position: relative;
+    margin-top: 10px;
+    color: beige;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .table-row {
+    font-size: 11px;
+  }
+}
